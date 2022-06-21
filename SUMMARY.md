@@ -47,7 +47,7 @@
 ## ⛩ History - AQA
 
 * [America](history-aqa/america.md)
-* [Cold War](history-aqa/cold-war.md)
+* [💣 Cold War](history-aqa/cold-war.md)
 * [Medicine](history-aqa/medicine.md)
 
 ## 🖥 Computer Science - AQA
